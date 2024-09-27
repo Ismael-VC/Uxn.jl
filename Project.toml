@@ -3,6 +3,10 @@ uuid = "d47ca433-c061-4175-9b2e-5c2760ce8240"
 authors = ["Ismael Venegas Castelló"]
 version = "1.0.0-DEV"
 
+[deps]
+CSyntax = "ea656a56-6ca6-5dda-bba5-7b6963a5f74c"
+Revise = "295af30f-e4ad-537b-8983-00126c2a3abe"
+
 [compat]
 julia = "1.6.7"
 
